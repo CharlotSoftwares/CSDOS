@@ -1,2 +1,3 @@
 # CSDOS
-Very barebone 64-bits operating system using the Linux kernel, GRUB, and SystemD.
+Very barebone modern 64-bits operating system using the Linux kernel, Limine, Bash, EXT4 and BusyBox ecosystem.  
+Future plans: GRUB, SystemD, CHLT Package Manager, etc.
